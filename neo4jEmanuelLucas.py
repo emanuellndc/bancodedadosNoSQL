@@ -41,5 +41,5 @@ i=0
 for r in results:
     i = i + 1
 porcentagem =str((i/4)*100)
-print(porcentagem + " das pessoas que comprou o produto A, também comparam o produto B")
+print(porcentagem + " das pessoas que comprou o produto A, também compraram o produto B")
 
